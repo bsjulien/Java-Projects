@@ -1,13 +1,8 @@
 Time Management App
 
-Authors:
-
-- Serge Sugira
-- Elnam Umutoni
-
 Project Description:
 
-We designed this project in order to help people especially students to effectively manage 
+Designed this project in order to help people especially students to effectively manage 
 their studies, work and also their day to day life. The project has three categories which
 are home, school and work. These categories are basically the type of areas where a typical 
 person specifically a student would perform a certain activities. 
@@ -31,6 +26,8 @@ all activities tab and the respective category tab. Now the timer starts.
 When the from time reaches, the program make a sound and the status column updates itself 
 to started. And when the to time reaches, the program makes an alarm like sound and the 
 status column updates itself to finished. 
+
+NB: Date format is dd/MM/yyyy meaning if you write 9/8/2020, it won't work.
 
 
 We hope you get a good experience while using our program. Thank you!!
